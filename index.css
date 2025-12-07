@@ -1,0 +1,27 @@
+
+div {
+    margin: 5px auto;
+    width: 100%;
+}
+
+h1 {
+    color: red;
+}
+
+ul {
+    margin: 5px auto;
+    text-align: left;
+    list-style-type: armenian;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px auto;
+    text-transform: uppercase;
+
+}
+
+input {
+    margin: 30px;
+}
+
